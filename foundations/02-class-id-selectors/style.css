@@ -4,8 +4,19 @@
 }
 
 #four {
-    background-color: rgb(107, 238, 107);
+    background-color: hsl(128, 84%, 66%);
     color: rgb(0,0,0);
     font-size: 24px;
     font-weight: bold;
+}
+
+.classic {
+    color: rgb(0,0,0);
+    background-color: rgba(255,0,0,.3);
+    font-family: Verdana, DejaVu Sans, sans-serif ;
+}
+
+.classic.cooler{
+    font-size: 24px;
+
 }
